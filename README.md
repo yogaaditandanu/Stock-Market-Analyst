@@ -86,4 +86,28 @@ The application is deployed as a **public Streamlit web app**.
 ---
 
 ## 📂 Project Structure (Simplified)
+├── app.py # Main Streamlit application
+├── requirements.txt # Project dependencies
+├── README.md # Project documentation
+
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created for **educational and portfolio purposes only**.
+
+All investment decisions (buy/sell/hold) remain the sole responsibility of the user.  
+Always conduct your own research (DYOR).
+
+---
+
+## 👤 Author
+
+**Yoga Adi Tandanu**
+
+- Background: Banking & Technology
+- Focus: Data-driven decision making, risk-aware analytics, fintech systems
+
+Feel free to explore, provide feedback, or connect.
 
